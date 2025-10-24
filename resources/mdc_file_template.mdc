@@ -1,0 +1,31 @@
+# {{Section Title}}
+
+[Brief introduction to this section if needed]
+
+## {{Subsection 1}}
+
+[Content for subsection 1]
+
+```{{language}}
+// Code example
+```
+
+### Key Points
+- [Point 1]
+- [Point 2]
+- [Point 3]
+
+## {{Subsection 2}}
+
+[Content for subsection 2]
+
+### Example
+```{{language}}
+// Code example showing the pattern
+```
+
+## Rules
+
+- [Rule 1]
+- [Rule 2]
+- [Rule 3]

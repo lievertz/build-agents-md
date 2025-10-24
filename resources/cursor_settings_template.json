@@ -1,0 +1,44 @@
+{
+  "rules": {
+    "_comment": "Add your global/shared rules here if you have any (e.g., 00-19)",
+    "_example_global_rule": {
+      "_comment": "Example: '00-company-context.mdc': { 'applyMode': 'auto' }"
+    },
+    "{{NN}}-repository-purpose.mdc": {
+      "applyMode": "auto"
+    },
+    "{{NN+1}}-architecture.mdc": {
+      "applyMode": "auto"
+    },
+    "{{NN+2}}-{{pattern1}}.mdc": {
+      "applyMode": "auto"
+    },
+    "{{NN+3}}-{{pattern2}}.mdc": {
+      "applyMode": "auto"
+    },
+    "{{NN+4}}-{{pattern3}}.mdc": {
+      "applyMode": "auto"
+    },
+    "{{NN+5}}-testing-philosophy.mdc": {
+      "applyMode": "auto"
+    },
+    "{{NN+6}}-error-handling.mdc": {
+      "applyMode": "auto"
+    },
+    "{{NN+7}}-{{domain-specific}}.mdc": {
+      "applyMode": "auto"
+    },
+    "{{NN+8}}-security-vigilance.mdc": {
+      "applyMode": "auto"
+    },
+    "{{NN+9}}-local-development-validation.mdc": {
+      "applyMode": "auto"
+    },
+    "{{NN+10}}-review-checklist.mdc": {
+      "applyMode": "auto"
+    },
+    "{{NN+11}}-resources.mdc": {
+      "applyMode": "auto"
+    }
+  }
+}
